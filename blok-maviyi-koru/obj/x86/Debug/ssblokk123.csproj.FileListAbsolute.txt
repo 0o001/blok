@@ -1,0 +1,8 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\bin\Debug\ssblokk123.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\bin\Debug\ssblokk123.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\obj\x86\Debug\ssblokk123.frm_blok.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\obj\x86\Debug\ssblokk123.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\obj\x86\Debug\ssblokk123.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\obj\x86\Debug\ssblokk123.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk123\obj\x86\Debug\ssblokk123.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\ssblokk123\obj\x86\Debug\ssblokk123.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\bin\Debug\ssblokk12.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\bin\Debug\ssblokk12.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\obj\x86\Debug\ssblokk12.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\obj\x86\Debug\ssblokk12.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\obj\x86\Debug\ssblokk12.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\obj\x86\Debug\ssblokk12.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk12\obj\x86\Debug\ssblokk12.frm_blok.resources

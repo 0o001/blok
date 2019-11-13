@@ -1,0 +1,11 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\bin\Debug\blok.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\bin\Debug\blok.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.frm_blok.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.usr_blok.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\blok\bin\Debug\blok.exe.config
+C:\Users\mustafa\documents\visual studio 2010\Projects\blok\obj\x86\Debug\blok.usr_giris.resources

@@ -1,0 +1,8 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\bin\Debug\ssblok.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\bin\Debug\ssblok.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\obj\x86\Debug\ssblok.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\obj\x86\Debug\ssblok.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\obj\x86\Debug\ssblok.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\obj\x86\Debug\ssblok.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblok\obj\x86\Debug\ssblok.frm_ssblok.resources
+C:\Users\mustafa\Documents\Visual Studio 2010\Projects\ssblok\obj\x86\Debug\ssblok.csprojResolveAssemblyReference.cache

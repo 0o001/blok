@@ -1,0 +1,16 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\bin\Debug\ssblokk11.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\bin\Debug\ssblokk11.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\obj\x86\Debug\ssblokk11.frm_blok.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\obj\x86\Debug\ssblokk11.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\obj\x86\Debug\ssblokk11.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\obj\x86\Debug\ssblokk11.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\ssblokk11\obj\x86\Debug\ssblokk11.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\ssblokk11\obj\x86\Debug\ssblokk11.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\blok\ssblokk11\obj\x86\Debug\ssblokk11.exe
+C:\Users\mustafa\Desktop\blok\ssblokk11\obj\x86\Debug\ssblokk11.pdb
+C:\Users\mustafa\Desktop\blok\ssblokk11\bin\Debug\ssblokk11.exe
+C:\Users\mustafa\Desktop\blok\ssblokk11\bin\Debug\ssblokk11.pdb
+C:\Users\mustafa\Desktop\blok\ssblokk11\obj\x86\Debug\ssblokk11.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\blok\ssblokk11\obj\x86\Debug\ssblokk11.frm_blok.resources
+C:\Users\mustafa\Desktop\blok\ssblokk11\obj\x86\Debug\ssblokk11.Properties.Resources.resources
+C:\Users\mustafa\Desktop\blok\ssblokk11\obj\x86\Debug\ssblokk11.csproj.GenerateResource.Cache
